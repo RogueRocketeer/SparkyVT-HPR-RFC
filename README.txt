@@ -6,10 +6,11 @@ NAR #85720, L3
 TRA #12111, L3
 
 --------DESCRIPTION----------
-This code base is the software to run an advanced flight computer in high-power amateur rockets. Hardware setups vary, but typically 
-can fit within a 38mm airframe. It has similar capability as a TeleMega, but without a smart-phone app or advanced interfaces.  
-Flight-tested on over 250 successful flights, including M-and-N powered supersonic flights to over 34K feet and Mach 2.3.  
-For large or high-power projects, a commercially avialble backup computer is strongly recommended.  
+This code base is the software to run an advanced flight computer in high-power amateur rockets. Hardware setups vary, 
+but typically can fit within a 38mm airframe. It has similar capability as a TeleMega, but without a smart-phone app 
+or advanced interfaces. Flight-tested on over 250 successful flights, including M-and-N powered supersonic flights to
+over 34K feet and Mach 2.3. For large or high-power projects, a commercially avialble backup computer is strongly 
+recommended.  
 
 --------FEATURES----------
 Full-featured dual deploy/multi-stage/airstart rocket flight computer capable to 100,000ft or more
