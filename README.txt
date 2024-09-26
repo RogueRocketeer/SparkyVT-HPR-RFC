@@ -1,4 +1,4 @@
-*NOTE: I get many messages expressing interest in this system.  I plan on offering an Arduino programmable filght computer with open source code by mid-2024.  Until then, there are 5 hardware options to use this code.  Scroll to the bottom to view the 5 options.  My website is not yet running, but you can contact me at https://www.rocketryforum.com/members/sparkyvt.810/
+*NOTE: I get many messages expressing interest in this system.  I plan on offering an Arduino programmable filght computer with open source code by late-2024. You can contact me at https://www.rocketryforum.com/members/sparkyvt.810/
 
 HPR Rocket Flight Computer
 Original sketch by SparkyVT
@@ -6,10 +6,9 @@ NAR #85720, L3
 TRA #12111, L3
 
 --------DESCRIPTION----------
-This flight computer is designed for rockets 38mm in diameter or greater, and will fit inside a 38mm tube coupler.
-Dimensions are 4.0in x 1.25in x 0.5in, antenna configuration may add more length
-It has similar capability as a TeleMega, but without a smart-phone app or advanced interfaces  
-Flight-tested on multiple M-and-N powered supersonic flights to over 34K feet and Mach 2.3.  
+This code base is the software to run an advanced flight computer in high-power amateur rockets. Hardware setups vary, but typically 
+can fit within a 38mm airframe. It has similar capability as a TeleMega, but without a smart-phone app or advanced interfaces.  
+Flight-tested on over 250 successful flights, including M-and-N powered supersonic flights to over 34K feet and Mach 2.3.  
 For large or high-power projects, a commercially avialble backup computer is strongly recommended.  
 
 --------FEATURES----------
@@ -73,10 +72,4 @@ Compatible with Teensy 3.2, 3.5, 3.6, 4.0, 4.1
 --------ADDITIONAL LIBRARIES REQUIRED----------
 TinyGPS++
 SDfat and/or SD
-
-OPTION 3: Contact me for a fully-functional Frankenstein-board.  This integrates all sensors breakout boards onto a single main board that is 4.0 x 1.25 x 0.5 inches.  Comes fully assembled, pre-programmed, calibrated, and tested.  Configurations will vary, but quality will not.  
-
-OPTION 4: Try your hand at assembling the Frankenstein-board yourself.  This is a single bare-board with no breakouts attached.  You will need to reflow the GNSS chip and hand-solder approximately 30 components.  Instructions included.  Contact me for for a bare-board.
-
-OPTION 5: Contact me for a fully assembled and tested ground station.  Includes ground unit with 2 radios and 20x4 LCD mounted in a custom form-fitting box.  
 
